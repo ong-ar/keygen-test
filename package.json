@@ -11,13 +11,9 @@
   "dependencies": {
     "bech32": "^2.0.0",
     "bip32": "^2.0.6",
-    "bip39": "^3.0.4",
-    "crypto-js": "^4.1.1",
-    "i": "^0.3.7",
-    "npm": "^7.24.1",
-    "ts-node": "^10.2.1"
+    "bip39": "^3.0.4"
   },
   "devDependencies": {
-    "@types/crypto-js": "^4.0.2"
+    "ts-node": "^10.2.1"
   }
 }
