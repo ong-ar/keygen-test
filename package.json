@@ -11,7 +11,9 @@
   "dependencies": {
     "bech32": "^2.0.0",
     "bip32": "^2.0.6",
-    "bip39": "^3.0.4"
+    "bip39": "^3.0.4",
+    "ecpair": "^2.0.1",
+    "tiny-secp256k1": "^2.1.2"
   },
   "devDependencies": {
     "ts-node": "^10.2.1"
